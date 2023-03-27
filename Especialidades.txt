@@ -1,0 +1,6 @@
+Oculista,1
+Traumatologo,2
+Cardiología,3
+Pediatría,4
+Podología,5
+Odontología,6
